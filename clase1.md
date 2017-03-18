@@ -37,7 +37,7 @@
  
  ### Código javascript que escribimos en clase:
 
-```
+```javascript
 var perro = {
   "nombre":"fido"
 };
@@ -62,7 +62,7 @@ perro.patpat();
 
 ### Código ruby visto en clase para el ejercicio del Age of Empires
 
-```
+```ruby
 class Caminador
   def caminar()
     puts "camino"
