@@ -82,4 +82,6 @@ Finalmente cada clase de Pelotón implementa lo que debe hacer cuando un Guerrer
 
 ---
 
-Bueno, esto ha sido cómo resolver el ejercicio de Age of Empires para Objetos 3, esperamos que les haya gustado. Chau!
+Bueno, esto ha sido cómo resolver el ejercicio de Age of Empires para Objetos 3, te dejamos [este código](age_of_empires_recargado.rb) con una posible solución.
+Esperamos que les haya gustado.
+Chau!
